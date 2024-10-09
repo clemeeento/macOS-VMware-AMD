@@ -59,7 +59,7 @@ Pour désactiver les mises à jour automatiques et faire fonctionner le Mac App 
 
 ### Questions fréquentes
 
-J'ai créé une section de **Discussion** sur ce projet pour permettre à d'autres utilisateurs de poser des questions et de partager leurs expériences. Si vous rencontrez des problèmes ou si vous avez des questions sur l'installation ou la configuration, n'hésitez pas à ouvrir un sujet dans la section **FAQ et Discussion**. J'essaierai de répondre à toutes les questions dans la mesure du possible.
+J'ai créé une section de **Discussion** sur ce projet pour permettre à d'autres utilisateurs de poser des questions et de partager leurs expériences. Si vous rencontrez des problèmes ou si vous avez des questions sur l'installation ou la configuration, n'hésitez pas à ouvrir un sujet dans la section **Questions**. J'essaierai de répondre à toutes les questions dans la mesure du possible.
 
 ## Suggestions et Améliorations
 
