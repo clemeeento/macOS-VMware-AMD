@@ -37,7 +37,7 @@ Avant de commencer, voici ce dont vous aurez besoin :
 - Un fichier `darwin.iso` pour installer les VMware Tools
 
 Assurez-vous que la virtualisation est activée dans le BIOS de votre carte mère. Vous devrez également désactiver certaines options sous Windows pour permettre un fonctionnement optimal de la VM.  
-Voir [Virtualisation](https://github.com/clemeeento/macOS-VMware-AMD/blob/main/1%20-%20Virtualisation.md).
+Voir [Virtualisation](https://github.com/clemeeento/macOS-VMware-AMD/blob/main/1%20-%20Virtualisation.md) pour plus de détails.
 
 ## Création de la machine virtuelle
 
