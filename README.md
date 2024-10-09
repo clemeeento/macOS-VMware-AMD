@@ -12,6 +12,7 @@ L'objectif de ce **Répertoire** est de partager mon expérience et les solution
 * **Processeur :** AMD Ryzen 7 5700X
 * **Mémoire vive :** Corsair 4x8Go 3200MHz
 * **Carte graphique :** NVidia GTX 1070
+* **OS :** Windows 10 20H2 Professionnel
 
 ## Sommaire
 1. [Introduction](#introduction)
